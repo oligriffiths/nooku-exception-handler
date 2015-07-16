@@ -1,0 +1,24 @@
+{
+  "name": "oligriffiths/nooku-exception-handler",
+  "description": "Nooku Exception Handler",
+  "keywords": ["nooku", "exception handler"],
+  "type": "library",
+  "homepage": "https://github.com/nooku/nooku-platform",
+  "license": "Apache2",
+  "authors": [
+    {
+      "name": "Nooku",
+      "homepage": "https://github.com/nooku"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/oligriffiths/nooku-exception-handler"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "oligriffiths/nooku-class-locator": "0.0.1"
+  }
+}
