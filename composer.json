@@ -15,5 +15,8 @@
     "php": ">=5.4.0",
     "oligriffiths/nooku-class-loader": "0.0.1",
     "oligriffiths/nooku-object-config": "0.0.1"
+  },
+  "autoload": {
+    "files": ["autoload.php"]
   }
 }
