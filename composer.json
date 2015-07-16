@@ -19,6 +19,6 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "oligriffiths/nooku-object-locator": "*"
+    "oligriffiths/nooku-object-locator": "dev-master"
   }
 }
